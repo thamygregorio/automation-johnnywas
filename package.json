@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rthamygregorio/automation-johnnywas.git"
+    "url": "git+https://github.com/thamygregorio/automation-johnnywas.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rthamygregorio/automation-johnnywas/issues"
+    "url": "https://github.com/thamygregorio/automation-johnnywas/issues"
   },
-  "homepage": "https://github.com/rthamygregorio/automation-johnnywas#readme",
+  "homepage": "https://github.com/thamygregorio/automation-johnnywas#readme",
   "devDependencies": {
     "cypress": "^10.9.0",
     "cypress-iframe": "^1.0.1"
